@@ -1,0 +1,7 @@
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\bin\Debug\Domain.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\bin\Debug\Domain.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\bin\Debug\NPoco.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\bin\Debug\NPoco.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\obj\Debug\Domain.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\Domain\obj\Debug\Domain.pdb

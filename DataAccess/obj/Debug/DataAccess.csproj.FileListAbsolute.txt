@@ -1,0 +1,10 @@
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\Domain.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\NPoco.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\bin\Debug\NPoco.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess\obj\Debug\DataAccess.pdb

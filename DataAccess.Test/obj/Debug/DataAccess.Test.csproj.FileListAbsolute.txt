@@ -1,0 +1,16 @@
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\DataAccess.Test.dll.config
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\DataAccess.Test.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\DataAccess.Test.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\nunit.framework.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\nunit.framework.xml
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\obj\Debug\DataAccess.Test.csprojResolveAssemblyReference.cache
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\obj\Debug\DataAccess.Test.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\obj\Debug\DataAccess.Test.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\DataAccess.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\Domain.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\NPoco.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\DataAccess.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\Domain.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\NPoco.pdb
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simmo_000\Documents\GitHub\ImpedanceCalculator\DataAccess.Test\bin\Debug\Newtonsoft.Json.xml

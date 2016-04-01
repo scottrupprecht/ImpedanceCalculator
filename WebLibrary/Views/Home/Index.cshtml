@@ -3,19 +3,37 @@
 }
 
 <div class="container">
-    <div class="form-group">
-        <label for="txt-num-speaker">Number of speakers: </label>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="txt-num-speaker">Number of speakers: </label>
 
-        <input id="txt-num-speaker" class="form-control" min="2" step="1" />
-        <div class="radio">
-            <label><input id="rad-series" type="radio" name="wireconfig" checked="checked">Series</label>
+            <input id="txt-num-speaker" class="form-control" min="2" step="1" />
+            <div class="radio">
+                <label><input id="rad-series" type="radio" name="wireconfig" checked="checked">Series</label>
+            </div>
+            <div class="radio">
+                <label><input id="rad-parellel" type="radio" name="wireconfig">Parallel</label>
+            </div>
+            <div id="speaker-container"></div>
+            <button id="btn-calculate" class="btn hidden  btn-success">Calculate</button>
+            <h1 id="display" class="row"></h1>
         </div>
-        <div class="radio">
-            <label><input id="rad-parellel" type="radio" name="wireconfig">Parallel</label>
+    </div>
+
+    <div class="col-md-6">
+
+        <div class="form-group">
+
+            <label for="txt-speaker-brand">Brand of speaker: </label>
+            <input type="text" id="txt-speaker-brand" name="Brand" class="form-control" />
+
+            <label for="txt-speaker-model">Model of speaker: </label>
+            <input type="text" id="txt-speaker-model" name="Model" class="form-control" />
+
+            <label for="txt-speaker-impedance">Impedance of speaker: </label>
+            <input type="text" id="txt-speaker-impedance" name="Impedance" class="form-control" />
+            <button id="btn-speaker-impedance" class="btn  btn-primary margin-top-10" type="submit">Calculate</button>
         </div>
-        <div id="speaker-container"></div>
-        <button id="btn-calculate" class="btn hidden  btn-success">Calculate</button>
-        <h1 id="display" class="row"></h1>
     </div>
 </div>
 
@@ -23,7 +41,11 @@
     <script type="text/javascript">
 
         $(function () {
-            var viewScript = new HomeIndex();
+            var viewScript = new HomeIndex({
+                urls: {
+                    insertSpeakerUrl: "@Url.Action("InsertSpeaker", "Home" )"
+                }
+            });
             viewScript.init();
         });
     </script>
